@@ -1,0 +1,4 @@
+Bundle-Name: ReporteTransaccionesPortlet
+Bundle-SymbolicName: ReporteTransaccionesPortlet
+Bundle-Version: 1.0.0
+Export-Package: ReporteTransaccionesPortlet.constants
